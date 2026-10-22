@@ -180,7 +180,7 @@ This is the size of running the parsed bundles/modules through Brotli compressio
 
 ### `zstd`
 
-This is the size of running the parsed bundles/modules through Zstandard compression. (Node.js 22.15.0+ is required for this feature)
+This is the size of running the parsed bundles/modules through Zstandard compression. (Node.js 22.23.4+ is required for this feature)
 
 <h2 align="center">Selecting Which Chunks to Display</h2>
 
